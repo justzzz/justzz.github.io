@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://justzz.xyz/post/welcome/</loc>
+    <lastmod>2017-03-16T15:39:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://justzz.xyz/about/</loc>
+    <lastmod>2017-03-16T14:02:15+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://justzz.xyz/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://justzz.xyz/</loc>
+    <lastmod>2017-03-16T15:39:11+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://justzz.xyz/post/</loc>
+    <lastmod>2017-03-16T15:39:11+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://justzz.xyz/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

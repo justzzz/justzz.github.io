@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Justzz on Justzz </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://justzz.xyz/index.xml</link>
+    <language>zh-Hans</language>
+    <author>justzz</author>
+    
+    <updated>Thu, 16 Mar 2017 15:39:11 CST</updated>
+    
+    <item>
+      <title>welcome</title>
+      <link>http://justzz.xyz/post/welcome/</link>
+      <pubDate>Thu, 16 Mar 2017 15:39:11 CST</pubDate>
+      <author>justzz</author>
+      <guid>http://justzz.xyz/post/welcome/</guid>
+      <description>&lt;p&gt;找个地方 记点东西&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
